@@ -1,7 +1,7 @@
 # Build and run
 
 ## In a terminal
-* git clone https://github.com/spring-guides/gs-spring-boot.git
+* git clone https://github.com/askaryo/test_AskarY.git
 * cd into the folder where is the repo
 * mvn clean package spring-boot:repackage
 * java -jar target/test_AskarY-1.0.jar OR mvn spring-boot:run
